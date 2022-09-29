@@ -3,8 +3,8 @@ Created VPC
 2.	Write IPv4 CIDR # 192.158.0.0/24
 3.	No IPv6 CIDER block
 Created 4 subnets
-1.	Subnet public1
-2.	Availability Zone 1a
+1.	##Subnet public1
+2.	###Availability Zone 1a
 3.	IPv4 CIDER – 192.158.0.0/26
 4.	Subnet public2
 5.	Availability Zone 1a
